@@ -38,6 +38,12 @@ body {
 	font-variant: small-caps;
 }
 
+.paragraph {
+	font-size: 16px;
+	line-height: 26px;
+	color: #1F3F68;
+}
+
 /*Тексту под заголовком h1 указать ширину 425px*/
 .top-paragraph {
 	font-size: 16px;
