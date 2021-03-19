@@ -111,10 +111,6 @@ body {
 	width: 340px;
 }
 
-.footer {
-	background-color: #316099;
-}
-
 .footer-contacts {
 	display:flex;
 	justify-content: space-between;
